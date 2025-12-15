@@ -42,9 +42,6 @@ Pré-requisitos: .NET SDK 8.0+
 
 ## Endpoints
 
-Acesse a documentação da API e teste via Swagger: 
-https://localhost:{porta}/swagger
-
 ### Usuários
 
 | Método | Rota | Descrição |
